@@ -48,7 +48,7 @@ Mat对象:通过Mat处理图。
 * 克隆图片  
 * 创建小图
 * 创建数组
-8. open_demo.cpp 
+8. open_demo.cpp   
 open操作：开操作，先腐蚀后膨胀。  
 9. show_demo.cpp
 显示图片：显示一张指定图片。  
