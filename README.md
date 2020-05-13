@@ -26,6 +26,6 @@ Filter 2D:矩阵的掩膜操作
 Mat对象:通过Mat处理图  
 9. open_demo.cpp   
 open操作：开操作，先腐蚀后膨胀  
-10. show_demo.cpp
+10. show_demo.cpp  
 显示图片：显示一张指定图片  
 
