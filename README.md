@@ -1,6 +1,6 @@
 # opencv-test
 学习OpenCV课程的时候做的一些程序测验  
-## pythom风格  
+## pytho风格  
 1. add_demo.py  
 像素运算：对两张图片进行加减乘除  
 2. add_demo2.py  
