@@ -1,6 +1,6 @@
 # opencv-test
 学习OpenCV课程的时候做的一些程序测验  
-## pytho风格  
+## python风格  
 1. add_demo.py  
 像素运算：对两张图片进行加减乘除  
 2. add_demo2.py  
@@ -10,7 +10,7 @@
 4. plot_demo.py  
 图像直方图：观察图像特征
 5. plot_demo2.py  
-直方图应用：对比度增强，两个直方图作比较  
+直方图应用：对比度增强、两个直方图作比较  
 6. plot_demo3.py  
 直方图反向投影：HSV和RGB色彩空间  
 7. roi_demo.py  
