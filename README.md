@@ -5,8 +5,20 @@
 像素运算：对两张图片进行加减乘除  
 2. add_demo2.py  
 像素运算2：逻辑运算和亮度增强  
-3. roi_demo.py  
+3. bi_demo.py  
+边缘保留滤波：高斯双边和均值迁移  
+4. plot_demo.py  
+图像直方图：观察图像特征
+5. plot_demo2.py  
+直方图应用：对比度增强，两个直方图作比较  
+6. plot_demo3.py  
+直方图反向投影：HSV和RGB色彩空间  
+7. roi_demo.py  
 ROI与泛洪填充：换掉图片区域的某个部分    
+8. template_demo.py  
+模板匹配：对图像中目标模板的识别  
+9. threshold_demo.py  
+图像二值化：介绍了三种二值化的方法  
 ## c++风格 
 1. basic_demo.cpp  
 基本操作：加载图片、修改图片和保存图片    
