@@ -1,6 +1,6 @@
 # 直线检测：霍夫直线变换
 # 作者：hanchen
-# 时间：2020年5月17日
+# 时间：2020年5月18日
 
 import cv2 as cv
 import numpy as np
